@@ -41,9 +41,7 @@
     font-weight: 600 !important;
     text-align: center;
     font-family: 'Montserrat', sans-serif; 
-    color: rgb(221, 159, 44) !important;
-    
-    
+    color: rgb(221, 159, 44) !important;  
 }
 
 #aboutSubtitle {
@@ -75,7 +73,8 @@ p {
 }
 
 #servicesHero {
-    background-color: rgb(31, 37, 34);
+    background-color: rgb(0, 0, 0);
+
 }
 
 .card {
@@ -94,6 +93,31 @@ p {
     font-size: 30px;
 }
 
+#contactHero {
+    background-color: rgb(31, 37, 34);
+}
+
+#contactTitle {
+    font-size: 4rem;
+    font-weight: 600 !important;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif; 
+    color: rgb(221, 159, 44) !important;  
+}
+
+.contactIcon {
+    color: white;
+    font-size: 40px;
+    margin-bottom: 50px;
+}
+
+.mobileContactIcon {
+    color: white;
+    font-size: 40px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
 .footer {
     background-color: black;
     height: 200px;
@@ -107,7 +131,6 @@ p {
     margin: 10px;
     
 }
-
 
 address {
     font-style: normal;
