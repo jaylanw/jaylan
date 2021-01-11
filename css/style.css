@@ -81,10 +81,12 @@ p {
 .card {
     background-color: transparent !important;
     border: none;
+    box-shadow: none;
 }
 
 .card-header-title {
     color: white;
+    border: none;
 }
 
 .serviceIcon {
@@ -128,9 +130,7 @@ address {
   .hoverCards {
     margin:20px;
     padding: 3px;
-    outline:2px solid #DDD;
-    border:#a1a1a1;
-    float:left;
+    float: center;
       -webkit-transition: margin 0.5s ease-out;
       -moz-transition: margin 0.5s ease-out;
       -o-transition: margin 0.5s ease-out;
