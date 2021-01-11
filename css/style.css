@@ -74,6 +74,24 @@ p {
     margin-top: 10px;
 }
 
+#servicesHero {
+    background-color: rgb(31, 37, 34);
+}
+
+.card {
+    background-color: transparent !important;
+    border: none;
+}
+
+.card-header-title {
+    color: white;
+}
+
+.serviceIcon {
+    color: white;
+    font-size: 30px;
+}
+
 .footer {
     background-color: black;
     height: 200px;
@@ -122,3 +140,4 @@ address {
       cursor:pointer;
       margin-top: 5px;
   }
+
