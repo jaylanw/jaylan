@@ -92,6 +92,10 @@ p {
     border: none;
 }
 
+.card-footer-item {
+    color: cornsilk;
+}
+
 .serviceIcon {
     color: white;
     font-size: 30px;
